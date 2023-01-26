@@ -6,4 +6,3 @@ hello git
 
 second
 
-new dev
